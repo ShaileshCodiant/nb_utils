@@ -103,7 +103,7 @@ void snackBar(
   Animation<double>? animation,
   double? width,
   ShapeBorder? shape,
-  Duration duration,
+  Duration? duration,
   SnackBarBehavior? behavior,
   double? elevation,
 }) {
